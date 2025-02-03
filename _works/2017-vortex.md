@@ -13,11 +13,10 @@ tags:
   - canvas
   - 2017
 media:
-
 score:
-headerImage: 2018/vortex-1920.jpg
-portWrapper: 2018/vortex-660.jpg
-purchase: "$200.00"
+headerImage: 2017/vortex-1920.jpg
+portWrapper: 2017/vortex-660.jpg
+purchase: 
 contact: "kspetric.art[at]gmail[dot]com"
 awards:
 dedication:
